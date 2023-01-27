@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            32:1a:fb:6e:54:3e:31:71:68:1e:ef:94:02:70:fb:93
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=davidrgfoss
+        Validity
+            Not Before: Jan 27 08:31:08 2023 GMT
+            Not After : May  1 08:31:08 2025 GMT
+        Subject: CN=davidrgfoss
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:b6:bd:9e:a6:d7:1a:46:ae:06:2f:f5:6b:70:
+                    7e:32:71:35:72:da:f7:f9:83:75:72:c0:fe:51:93:
+                    2f:b9:13:8a:cb:6a:d5:39:4d:8f:ac:b0:4d:93:2b:
+                    d7:69:4e:9d:66:6f:7b:19:df:76:e9:47:32:73:11:
+                    7a:37:92:25:0c:d0:39:0f:64:69:cc:43:6c:2b:d2:
+                    ee:88:3f:b7:8b:e0:9b:3c:96:7e:bb:9e:d6:e1:8a:
+                    21:e6:55:1b:57:27:8f:76:8d:de:0c:bc:36:5c:c2:
+                    f0:f1:11:e3:2f:ec:93:3e:05:3a:87:fb:5c:43:4d:
+                    ed:a1:c3:55:11:9b:af:7f:7b:23:0d:a5:de:a7:68:
+                    48:93:31:9b:05:07:44:2b:da:5e:0a:94:2a:4c:a9:
+                    ef:41:ca:26:6c:f1:7f:e7:d3:cc:ff:e7:ca:a4:7c:
+                    4f:1d:3b:cb:b8:bd:ac:d9:05:b6:e9:da:12:d7:ae:
+                    76:4e:35:2f:51:90:95:40:d9:e4:19:cd:b3:f3:70:
+                    e7:08:5b:52:59:ae:13:c0:76:81:6e:b1:fa:14:f6:
+                    72:49:61:45:e8:55:8d:87:0e:e7:aa:41:ad:23:57:
+                    16:8a:b4:ab:ad:42:71:a5:5f:0a:7f:f9:3b:4f:ea:
+                    49:02:63:cc:18:03:c5:9c:cc:18:fb:55:75:88:bf:
+                    5c:13
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                70:28:97:1E:2D:10:B6:81:62:28:A9:7A:FF:C4:36:D7:52:05:16:11
+            X509v3 Authority Key Identifier: 
+                keyid:0C:59:D9:80:E4:09:12:F2:A3:6D:A3:A5:DE:86:68:20:6F:08:C5:BE
+                DirName:/CN=davidrgfoss
+                serial:48:AA:1F:B1:60:1A:08:AD:E5:89:05:4D:BA:56:D0:CF:37:C5:3C:90
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         76:8f:d0:07:01:1e:77:24:33:2c:a4:32:21:b9:a6:a9:d9:0d:
+         2a:69:dd:e2:2f:b7:51:a9:84:13:8e:8f:69:b0:08:b0:bc:3f:
+         10:74:18:d5:b9:98:0e:55:8b:ce:a3:81:97:7d:46:75:ad:67:
+         96:61:eb:0d:f9:33:3d:d9:42:2c:1a:99:d8:e6:f6:f2:1c:f4:
+         74:b6:59:d3:26:3a:68:2e:65:79:3d:25:03:0c:54:38:dd:e1:
+         44:c6:68:3d:13:ac:c4:c7:4a:7d:10:b0:2c:63:23:2c:8c:1c:
+         6f:af:ce:b2:0e:ac:38:f5:b1:68:05:af:44:72:8c:de:c8:db:
+         2d:6f:91:97:fb:69:c1:fb:c6:d6:03:f7:10:5c:e1:40:fe:9e:
+         6b:71:1b:19:4a:a7:d5:b4:df:76:e9:05:f7:c0:44:4d:67:69:
+         3e:de:cd:5c:23:26:a7:bf:9d:bb:c7:91:c0:af:c0:ea:ba:11:
+         38:d9:e7:32:ad:ec:5f:7b:6a:ec:74:3a:23:9b:73:97:66:e3:
+         61:51:8e:ac:00:80:95:2e:6d:7f:3c:5c:bc:07:06:e7:57:1c:
+         15:9a:66:94:ce:42:2d:27:25:69:7c:12:10:fe:16:f9:87:82:
+         51:ba:31:c3:6e:d4:68:2f:ab:bf:b5:06:bf:0f:34:7f:37:9d:
+         d1:cc:de:ed
+-----BEGIN CERTIFICATE-----
+MIIDWTCCAkGgAwIBAgIQMhr7blQ+MXFoHu+UAnD7kzANBgkqhkiG9w0BAQsFADAW
+MRQwEgYDVQQDDAtkYXZpZHJnZm9zczAeFw0yMzAxMjcwODMxMDhaFw0yNTA1MDEw
+ODMxMDhaMBYxFDASBgNVBAMMC2Rhdmlkcmdmb3NzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEArLa9nqbXGkauBi/1a3B+MnE1ctr3+YN1csD+UZMvuROK
+y2rVOU2PrLBNkyvXaU6dZm97Gd926UcycxF6N5IlDNA5D2RpzENsK9LuiD+3i+Cb
+PJZ+u57W4Yoh5lUbVyePdo3eDLw2XMLw8RHjL+yTPgU6h/tcQ03tocNVEZuvf3sj
+DaXep2hIkzGbBQdEK9peCpQqTKnvQcombPF/59PM/+fKpHxPHTvLuL2s2QW26doS
+1652TjUvUZCVQNnkGc2z83DnCFtSWa4TwHaBbrH6FPZySWFF6FWNhw7nqkGtI1cW
+irSrrUJxpV8Kf/k7T+pJAmPMGAPFnMwY+1V1iL9cEwIDAQABo4GiMIGfMAkGA1Ud
+EwQCMAAwHQYDVR0OBBYEFHAolx4tELaBYiipev/ENtdSBRYRMFEGA1UdIwRKMEiA
+FAxZ2YDkCRLyo22jpd6GaCBvCMW+oRqkGDAWMRQwEgYDVQQDDAtkYXZpZHJnZm9z
+c4IUSKofsWAaCK3liQVNulbQzzfFPJAwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYD
+VR0PBAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQB2j9AHAR53JDMspDIhuaap2Q0q
+ad3iL7dRqYQTjo9psAiwvD8QdBjVuZgOVYvOo4GXfUZ1rWeWYesN+TM92UIsGpnY
+5vbyHPR0tlnTJjpoLmV5PSUDDFQ43eFExmg9E6zEx0p9ELAsYyMsjBxvr86yDqw4
+9bFoBa9EcozeyNstb5GX+2nB+8bWA/cQXOFA/p5rcRsZSqfVtN926QX3wERNZ2k+
+3s1cIyanv527x5HAr8DquhE42ecyrexfe2rsdDojm3OXZuNhUY6sAICVLm1/PFy8
+BwbnVxwVmmaUzkItJyVpfBIQ/hb5h4JRujHDbtRoL6u/tQa/DzR/N53RzN7t
+-----END CERTIFICATE-----
